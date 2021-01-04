@@ -1,0 +1,1 @@
+This is Kaitlin Ennis's first git project!
